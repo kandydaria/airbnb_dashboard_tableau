@@ -17,3 +17,4 @@
 - reviews_summary.csv — суммарная информация по отзывам на объект
 
 Описание датасета на Kaggle — https://www.kaggle.com/labdmitriy/airbnb 
+Данные доступны здесь https://yadi.sk/d/wih-Sn-8--LShQ 
