@@ -1,6 +1,6 @@
 # airbnb_dashboard_tableau
 
-[Dashboard - AirBnb real estate objects overview](https://public.tableau.com/profile/daria.kandy#!/vizhome/AirBnbproject/Dashboard1)
+[Dashboard - AirBnb real estate objects overview](https://public.tableau.com/profile/daria.kandy#!/vizhome/AirBnbproject/Dashboard1) (ссылка на Tableau Public)
 
 **Key factors such as availability within a year, prices, location and types of real estate objects from Airbnb data base**
 
@@ -17,4 +17,5 @@
 - reviews_summary.csv — суммарная информация по отзывам на объект
 
 Описание датасета на Kaggle — https://www.kaggle.com/labdmitriy/airbnb 
+
 Данные доступны здесь https://yadi.sk/d/wih-Sn-8--LShQ 
